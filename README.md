@@ -69,15 +69,11 @@ User-Management-System/
 
 ---
 
-Credits
+## Credits
 
-This project was developed using the CodeIgniter 3 framework. For more information about CodeIgniter, visit https://codeigniter.com.
-
-Font Awesome for the icons used in the project. Visit https://fontawesome.com for more icons.
-
-PHP for server-side scripting, visit https://www.php.net/.
-
-MySQL for database management, visit https://www.mysql.com/.
-
+- This project was developed using the **CodeIgniter 3** framework. For more information about CodeIgniter, visit [https://codeigniter.com](https://codeigniter.com).
+- **Font Awesome** for the icons used in the project. Visit [https://fontawesome.com](https://fontawesome.com) for more icons.
+- **PHP** for server-side scripting, visit [https://www.php.net/](https://www.php.net/).
+- **MySQL** for database management, visit [https://www.mysql.com/](https://www.mysql.com/).
 
 Special thanks to the CodeIgniter community and other open-source contributors.
