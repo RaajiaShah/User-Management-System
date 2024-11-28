@@ -69,6 +69,6 @@ User-Management-System/
 
 ---
 
-##Credits
+## Credits
 
 This project was developed using the CodeIgniter 3 framework. For more information about CodeIgniter, visit https://codeigniter.com.
