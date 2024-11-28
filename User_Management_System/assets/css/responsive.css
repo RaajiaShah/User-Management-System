@@ -1,0 +1,31 @@
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar-nav .nav-link {
+        font-size: 0.9rem;
+    }
+
+    .user-management-link {
+        font-size: 1.2rem;
+        gap: 0.3rem;
+    }
+
+    .user-management-link i {
+        font-size: 1.5rem;
+    }
+
+    .welcome-section h2 {
+        font-size: 1.5rem;
+    }
+
+    .card {
+        margin: 20px auto;
+    }
+
+    .card-header h4 {
+        font-size: 1.25rem;
+    }
+
+    .btn {
+        font-size: 0.9rem;
+    }
+}
